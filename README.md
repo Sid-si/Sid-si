@@ -1,4 +1,4 @@
-## EAI sou Anderson Sid 👋
+## Eai sou Anderson Sid 👋
 
 - 🔭 Atualmente trabalho no setor adiministrativo.
 - 💻 Atualmente estudo JavaScript e tecnologias FrontEnd.
