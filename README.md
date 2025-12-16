@@ -1,8 +1,7 @@
 ## Eai sou Anderson Sid 👋
 
-- 🔭 Atualmente trabalho no setor adiministrativo.
-- 💻 Atualmente estudo JavaScript e tecnologias FrontEnd.
-- 📫 Pode me contactar pelo andertwcc@gmail.com ou pelo telefone (84) 9 8647-8184.
+- 💻 Ola sou anderson, estudante de front-end e suas tecnologias, esse é meu perfil sintase a vontade para explirar meu repositorio espero que goste do que vê.
+- 📝linguagens e tecnologias: html, css, javascript, react, node.
   ##
 <div>
 <img height=180cm src="https://github-readme-stats.vercel.app/api?username=Sid-si&show_icons=true&hide=contribs,prs&theme=radical">
