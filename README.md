@@ -1,6 +1,6 @@
 ## Eai sou Anderson Sid 👋
 
-- 💻 Ola sou anderson, estudante de front-end e suas tecnologias, esse é meu perfil sintase a vontade para explirar meu repositorio espero que goste do que vê.
+- 💻 Ola sou anderson, estudante de front-end e suas tecnologias, esse é meu perfil, sintase a vontade para explorar meu repositorio espero que goste do que vê.
 - 📝linguagens e tecnologias: html, css, javascript, react, node.
   ##
 <div>
